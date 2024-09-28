@@ -1,0 +1,3 @@
+/home/opi/CLionProjects/Assignment/BMS_Test/cmake-build-debug/CMakeFiles/BMS_Test.dir
+/home/opi/CLionProjects/Assignment/BMS_Test/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/opi/CLionProjects/Assignment/BMS_Test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
